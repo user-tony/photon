@@ -4,7 +4,7 @@ require "photon-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "photon-rails"
-  s.version     = Phonon::Rails::VERSION
+  s.version     = Photon::Rails::VERSION
   s.authors     = ['lijia.tong' ]
   s.email       = ['lijia.tong@foxmail.com']
   s.homepage    = "https://github.com/user-tony/photon-rails"
